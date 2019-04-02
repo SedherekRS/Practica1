@@ -10,7 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".activity_signo">
-
         </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
