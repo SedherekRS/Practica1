@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zodiac</string>
+    <string name="Name">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="Day">B-day Day</string>
+    <string name="Month">B-day Month</string>
+    <string name="Year">B-day Year</string>
+    <string name="btnSummit">Find</string>
+    <string name="todo">TODO</string>
+    <string name="voidText">All fields are required</string>
+    <string name="okDate">Invalid Date</string>
+    <string name="tvResult">Result!</string>
+</resources>

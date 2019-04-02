@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zodiaco</string>
+    <string name="Name">Nombre</string>
+    <string name="LastName">Apellido</string>
+    <string name="Day">Día Cumple</string>
+    <string name="Month">Mes Cumple</string>
+    <string name="Year">Año Cumple</string>
+    <string name="btnSummit">Buscar</string>
+    <string name="todo">TODO</string>
+    <string name="voidText">Llene todos los campos</string>
+    <string name="okDate">Fecha inválida</string>
+    <string name="tvResult">¡Resultado!</string>
+</resources>
